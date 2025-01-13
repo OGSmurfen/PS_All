@@ -5,9 +5,9 @@ VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab03to05", "PS_All.vcxproj", "{34AE5EC4-3596-450C-9080-82A05DCA6ED1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab06", "..\Lab06\Lab06.vcxproj", "{B2578A51-EA31-4A74-8224-AB65C999E473}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab06", "Lab06\Lab06.vcxproj", "{B2578A51-EA31-4A74-8224-AB65C999E473}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab07", "..\Lab07\Lab07.vcxproj", "{EB19044D-03C5-4C06-B32C-A358259F8A69}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab07", "Lab07\Lab07.vcxproj", "{EB19044D-03C5-4C06-B32C-A358259F8A69}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
