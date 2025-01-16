@@ -165,7 +165,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
             SelectObject(hdc, hPen);
 
             POINT hexagon[6];
-            // hexagon points starting from bottom most and rotating anti-clockwise
+            // hexagon points starting from bottom most and rotating clockwise
             hexagon[0].x = 100; hexagon[0].y = 200;
             hexagon[1].x = hexagon[0].x + 50; hexagon[1].y = hexagon[0].y - 30;  
             hexagon[2].x = hexagon[0].x + 50; hexagon[2].y = hexagon[1].y - 50;
